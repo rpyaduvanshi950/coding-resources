@@ -31,7 +31,25 @@
 
 ---
 
-### **Additional Notes:**
-- Focus on **building 10 projects** across topics, including CRUD apps, real-time apps, and capstone projects.
-- Continuously **document your progress** on GitHub with proper commits and README files.
-- Allocate **15-20 hours weekly** to cover the topics and practice consistently.
+Here’s a list of **10 project ideas** aligned with the roadmap, along with a guide to building them in a tabular format:
+
+| **Project Name**                | **Description**                                                                                                  | **Steps to Build**                                                                                                       | **Tech Stack**                   |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| **Task Tracker App**            | A React app to track daily tasks with add, edit, and delete functionality.                                       | 1. Set up React. <br>2. Build a task list UI. <br>3. Add state management with React hooks. <br>4. Store tasks locally.  | React, CSS                      |
+| **Bookshelf App**               | A MongoDB-powered app to manage a collection of books with search and CRUD operations.                          | 1. Set up MongoDB.<br>2. Create Express APIs for CRUD operations.<br>3. Connect backend to a React frontend.            | Node.js, Express, MongoDB, React|
+| **Blog Platform**               | A platform for users to post, edit, and delete blog entries. Includes JWT-based authentication.                 | 1. Build REST APIs with Express. <br>2. Use MongoDB or PostgreSQL for storing blogs. <br>3. Add authentication.         | Node.js, MongoDB/PostgreSQL, React|
+| **Chat App**                    | Real-time chat app using Websockets with user authentication.                                                   | 1. Set up Websockets on the backend. <br>2. Implement chat UI in React.<br>3. Add JWT authentication.                   | Node.js, Websockets, React      |
+| **E-Commerce Store**            | A store with product listings, a cart system, and checkout functionality.                                       | 1. Design product APIs. <br>2. Add cart logic in React.<br>3. Integrate Razorpay/Stripe for payments.                   | React, Node.js, MongoDB, Payment APIs |
+| **Portfolio Website**           | A personal portfolio to showcase projects and skills.                                                           | 1. Use Next.js for SSR.<br>2. Style with Tailwind CSS.<br>3. Add portfolio content dynamically using JSON.              | Next.js, Tailwind CSS           |
+| **Expense Tracker**             | A tool to track income and expenses with visualizations.                                                        | 1. Create React components for transactions.<br>2. Store data in MongoDB.<br>3. Visualize data using Chart.js.          | React, MongoDB, Chart.js        |
+| **Online Classroom Platform**   | A platform for faculty to share documents, conduct live sessions, and create assignments.                      | 1. Build backend with Express.<br>2. Implement user roles.<br>3. Add WebRTC for live classes.                           | Node.js, WebRTC, React          |
+| **Video Conferencing App**      | A basic conferencing app using WebRTC for real-time communication.                                              | 1. Set up WebRTC APIs.<br>2. Build React frontend.<br>3. Manage connections using signaling servers.                    | WebRTC, React                   |
+| **Capstone E-Commerce App**     | A fully-featured app with real-time notifications, authentication, and performance optimization.                | 1. Plan HLD and LLD.<br>2. Develop backend APIs.<br>3. Add Websocket-based notifications.<br>4. Deploy on the cloud.    | Node.js, React, MongoDB, Websockets |
+
+### Details on Building the Projects:
+
+1. **Progressive Complexity**: Projects grow in difficulty from simple React apps (e.g., Task Tracker) to advanced, multi-featured applications (e.g., Capstone E-Commerce App).
+2. **Full Stack Integration**: Emphasizes both frontend and backend skills, including databases, APIs, and real-time communication.
+3. **Deployment**: Includes a deployment step (e.g., using Vercel, Heroku, or AWS) to simulate production environments.
+
+Let me know if you need detailed guides for specific projects!
