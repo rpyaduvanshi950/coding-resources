@@ -70,15 +70,13 @@
 | **TypeScript**        | [TypeScript Full Course - freeCodeCamp](https://youtu.be/30LWjhZzg50?si=Ml9jcynuJV_dFcyK)              |
 | **Spring Boot**       | [Spring Boot Tutorial - Amigoscode](https://youtu.be/-Fe0zk-F4OA?si=jBrFJkqm50tkZ4yY)                  |
 | **Next.js**           | [Next.js Crash Course - Traversy Media](https://youtu.be/mTz0GXj8NN0)                                   |
-| **Tailwind CSS**      | [Tailwind CSS Tutorial - CodeWithHarry](https://youtu.be/3qk6ygiSD5c)                                   |
-| **Docker**            | [Docker Tutorial - TechWorld with Nana](https://youtu.be/3c-iBn73dDE)                                  |
-| **Node.js**           | [Node.js Crash Course - Traversy Media](https://youtu.be/fBNz5xF-Kx4)                                   |
+| **Tailwind CSS**      | [Tailwind CSS Tutorial - JS Mastery](https://youtu.be/3qk6ygiSD5c)                                   |
+| **Docker**            | [Docker Tutorial - Harkirat Singh](https://youtu.be/fSmLiOMp2qI?si=0lm0Hj2OVWWAfeFb)                                  |
+| **Node.js**           | [Node.js Crash Course - Traversy Media](https://youtu.be/ohIAiuHMKMI?si=H5iHT-EDtoSG7BAp)                                   |
 | **GraphQL**           | [GraphQL Tutorial - freeCodeCamp](https://youtu.be/ed8SzALpx1Q)                                        |
 | **Web Accessibility** | [Web Accessibility - freeCodeCamp](https://youtu.be/WElAzzkVWsk)                                       |
 | **Agile Development** | [Agile Development Basics - Edureka](https://youtu.be/Z9QbYZh1YXY)                                     |
-| **Redux Toolkit**     | [Redux Toolkit Tutorial - DevEd](https://youtu.be/PoRJizFvM7s)                                         |
-| **AWS**               | [AWS Full Course - Simplilearn](https://youtu.be/3hLmDS179YE)                                          |
-| **Webpack**           | [Webpack Tutorial - freeCodeCamp](https://youtu.be/IZGNcSuwBZs)                                        |
+                               |
 
 
 # Project Playlist: https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
