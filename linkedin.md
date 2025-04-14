@@ -31,3 +31,115 @@
 - ✅ Invite peers to collaborate on posts.
 - ✅ Experiment with post formats (carousel, text-only, Q&A, etc.).
 
+
+---
+
+### 🔍 **1. Boolean Search Like a Hacker**
+Use **Google** with site:linkedin.com to bypass LinkedIn limitations and dig deeper.
+
+**Example:**
+```bash
+site:linkedin.com/in/ AND ("React Developer" OR "Frontend Developer") AND ("hiring" OR "open to work") AND ("Bangalore" OR "Remote")
+```
+
+You can add:
+- `intitle:"React Developer"` to search only profile titles.
+- `"currently hiring"` to find HRs/recruiters with current openings.
+
+---
+
+### 🧠 **2. Filter Recruiters Using Keywords**
+In LinkedIn’s search bar, type:
+
+```plaintext
+Recruiter AND (React OR Node OR Python) AND "looking to hire"
+```
+
+Then filter by **People**, **Location**, or **Past companies**. Hit up these people directly with a short, customized message — like:
+> “Hey [Name], noticed you're hiring for [Role]. I’ve worked on similar projects and would love to connect!”
+
+---
+
+### 🧨 **3. Content Hijacking Trick**
+Go to **#Hiring**, **#hiringnow**, or **#RemoteJobs** — but don’t scroll randomly.
+
+Instead, sort by **Latest** posts. Then **comment early** (within 30 mins), something like:
+> “Would love to explore this opportunity! Profile aligns well with the role — sending a DM shortly.”
+
+Early engagement = visibility to recruiters.
+
+---
+
+### 💬 **4. Drop ‘Easter Egg’ Comments on Company Pages**
+Go to the company’s **LinkedIn page**, check **posts made by HRs or leadership**, and comment something genuine like:
+> “Love the product direction — curious if you're expanding the dev team this quarter?”
+
+This triggers curiosity and might land you in their DMs.
+
+---
+
+### 🎯 **5. Job Alerts 2.0 – Geo + Title Hack**
+Create custom alerts using keywords like:
+- `Frontend Developer Remote`
+- `Blockchain Internship Mumbai`
+- `Startup Software Engineer Equity`
+
+Then **save job alerts** with highly specific roles + location combos to beat the crowd.
+
+---
+
+### 🛠️ **6. Use GitHub + LinkedIn Combo**
+Search GitHub profiles using:
+```bash
+site:github.com "location Mumbai" "React developer"
+```
+
+Then find those devs on LinkedIn — if they recently switched jobs or posted “I’m hiring,” you’ve found a lead.
+
+---
+
+### 🧩 **7. Use LinkedIn's Hidden Hashtags**
+These aren’t always trending but recruiters use them:
+- `#nowhiring`
+- `#techhiring`
+- `#developerswanted`
+- `#startupjobs`
+- `#wearehiring`
+- `#jointheteam`
+
+Search and sort by **Posts → Latest**, then directly connect/comment.
+
+---
+
+### 🕵️ **8. Search by Stealth Mode**
+Turn on **Private Mode** in LinkedIn settings → stalk all you want without alerting anyone. Use it to study hiring managers' and recruiters’ activity.
+
+---
+
+### 🧬 **9. Scrape LinkedIn with Phantombuster or Bardeen**
+Use [Phantombuster](https://phantombuster.com/) or [Bardeen.ai](https://www.bardeen.ai/) to extract:
+- Recruiter emails
+- Job poster profiles
+- Candidate data (to see what resumes are working)
+
+You can build your own mini-ATS and reach out strategically.
+
+---
+
+### 🧨 **10. Ghost Apply Technique**
+Apply for a job → don’t wait → find the recruiter on LinkedIn who posted it → send a DM like:
+> “Hey [Name], I applied for [Role] but wanted to directly express interest. My background in [X] might align well with your goals.”
+
+Most people don’t do this. You’ll stand out.
+
+---
+
+### 🧪 Bonus Unreal Hack: **Reverse Search the Job Poster**
+For job posts with "Posted by [Name]", click the name → see all past job posts → check what kind of people they usually hire.
+
+Tailor your resume/portfolio using their previous choices (stealth mode optional 😏).
+
+---
+
+Want a downloadable Notion template or Chrome extension setup for this? Or want me to generate custom messages for recruiter DMs? Just say the word.
+
