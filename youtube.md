@@ -68,14 +68,14 @@
 | **Flask**             | [Flask for Beginners - Freecodecamp](https://youtu.be/Z1RJmh_OqeA?si=28bjpYogM3q0ceFV)                |
 | **SQL**               | [SQL Tutorial for Beginners - Apna College ](https://youtu.be/hlGoQC332VM?si=9MOIDhsXLy3o-Vtx)          |
 | **TypeScript**        | [TypeScript Full Course - freeCodeCamp](https://youtu.be/30LWjhZzg50?si=Ml9jcynuJV_dFcyK)              |
-| **Spring Boot**       | [Spring Boot Tutorial - Amigoscode](https://youtu.be/-Fe0zk-F4OA?si=jBrFJkqm50tkZ4yY)                  |
+| **Spring Boot**       | [Spring Boot Tutorial - Engineering Digest](https://youtu.be/1993zSY5UBI?si=8Y0KuMEysrl6oVpc)                  |
 | **Next.js**           | [Next.js Crash Course - Traversy Media](https://youtu.be/mTz0GXj8NN0)                                   |
-| **Tailwind CSS**      | [Tailwind CSS Tutorial - JS Mastery](https://youtu.be/3qk6ygiSD5c)                                   |
+| **Machine Learning**  | [Machine Learning - Krish Naik](https://youtu.be/JxgmHe2NyeY?si=U4AMSuY8o-0pXSCo)                                   |
 | **Docker**            | [Docker Tutorial - Harkirat Singh](https://youtu.be/fSmLiOMp2qI?si=0lm0Hj2OVWWAfeFb)                                  |
-| **Node.js**           | [Node.js Crash Course - Traversy Media](https://youtu.be/ohIAiuHMKMI?si=H5iHT-EDtoSG7BAp)                                   |
+| **Node.js**           | [Node.js Crash Course - Sheriyans](https://youtu.be/T55Kb8rrH1g?si=dVTQ5MCOEF_hoPJI)                                   |
 | **GraphQL**           | [GraphQL Tutorial - freeCodeCamp](https://youtu.be/ed8SzALpx1Q)                                        |
-| **Web Accessibility** | [Web Accessibility - freeCodeCamp](https://youtu.be/WElAzzkVWsk)                                       |
-| **Agile Development** | [Agile Development Basics - Edureka](https://youtu.be/Z9QbYZh1YXY)                                     |
+| **Generative AI** | [Web Accessibility - freeCodeCamp](https://youtu.be/pSVk-5WemQ0?si=tj2Nlue_9xhLZRtr)                                       |
+| **Agile Development** | [Agile Development Basics - Edureka](https://youtu.be/ypg4uPQTGo0?si=HUUBhJOYKBNacNFd)                                     |
                                |
 
 
