@@ -145,5 +145,3 @@ Tailor your resume/portfolio using their previous choices (stealth mode optional
 
 ---
 
-Want a downloadable Notion template or Chrome extension setup for this? Or want me to generate custom messages for recruiter DMs? Just say the word.
-
