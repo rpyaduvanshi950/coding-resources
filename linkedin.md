@@ -1,3 +1,5 @@
+Email Extension: https://getprospect.com/ 
+
 ## Weekly Posting Plan
 
 | Week | Content Type | Target Engagement | Hashtag Strategy | Engagement Tactic |
