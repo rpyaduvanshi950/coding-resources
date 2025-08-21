@@ -1,4 +1,6 @@
-Email Extension: https://getprospect.com/ 
+Email Extension: 1. https://getprospect.com/ 
+                 2. https://hunter.io/email-finder
+                 3. 
 
 ## Weekly Posting Plan
 
