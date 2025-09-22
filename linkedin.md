@@ -1,3 +1,7 @@
+Email Extension: 1. https://getprospect.com/ 
+                 2. https://hunter.io/email-finder
+                 3. 
+
 ## Weekly Posting Plan
 
 | Week | Content Type | Target Engagement | Hashtag Strategy | Engagement Tactic |
@@ -140,6 +144,4 @@ For job posts with "Posted by [Name]", click the name → see all past job posts
 Tailor your resume/portfolio using their previous choices (stealth mode optional 😏).
 
 ---
-
-Want a downloadable Notion template or Chrome extension setup for this? Or want me to generate custom messages for recruiter DMs? Just say the word.
 
