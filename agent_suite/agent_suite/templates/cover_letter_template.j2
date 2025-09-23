@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am excited to apply for the {{ job.title }} position at {{ job.company }}. My experience across {% for skill in profile.skills %}{{ skill }}{% if not loop.last %}, {% endif %}{% endfor %} and passion for {{ tone }} collaboration align well with your requirements.
+
+Key highlights:
+{% for project in profile.projects %}- {{ project.name }}: {{ project.impact }}
+{% endfor %}
+
+Thank you for considering my application. I look forward to the opportunity to contribute to {{ job.company }}.
+
+Sincerely,
+{{ profile.full_name }}

@@ -1,0 +1,5 @@
+{
+  "ai_research": ["machine learning", "deep learning", "python", "pytorch", "langchain"],
+  "full_stack": ["react", "node.js", "fastapi", "postgresql", "docker"],
+  "data_science": ["sql", "statistics", "pandas", "scikit-learn", "visualization"]
+}

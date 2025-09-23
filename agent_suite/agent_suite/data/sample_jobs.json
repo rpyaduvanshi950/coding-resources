@@ -1,0 +1,22 @@
+[
+  {
+    "source": "linkedin",
+    "title": "AI Research Intern",
+    "company": "IIT Kanpur AI Lab",
+    "location": "Kanpur, India",
+    "url": "https://www.linkedin.com/jobs/view/123",
+    "description": "Work on cutting-edge AI research, build models, and collaborate with faculty.",
+    "skills": ["Python", "Machine Learning", "Deep Learning", "LangChain"],
+    "posted_at": "2024-06-01"
+  },
+  {
+    "source": "indeed",
+    "title": "Remote AI Product Intern",
+    "company": "Innovative Startups",
+    "location": "Remote",
+    "url": "https://www.indeed.com/viewjob?jk=456",
+    "description": "Develop AI-driven web applications, integrate APIs, and deploy on cloud platforms.",
+    "skills": ["React", "FastAPI", "PostgreSQL", "AI"],
+    "posted_at": "2024-06-03"
+  }
+]

@@ -1,0 +1,13 @@
+Subject: Application for {{ job.title }} – {{ profile.full_name }}
+
+Hi {{ job.company }} Recruitment Team,
+
+I just submitted my application for the {{ job.title }} role and wanted to share a brief highlight:
+{% for project in profile.projects %}- {{ project.name }}: {{ project.impact }}
+{% endfor %}
+
+I would love to discuss how my background fits the team's goals.
+
+Best regards,
+{{ profile.full_name }}
+{{ profile.email }}
