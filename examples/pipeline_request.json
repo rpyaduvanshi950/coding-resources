@@ -1,0 +1,26 @@
+{
+  "profile": {
+    "name": "Aditi Sharma",
+    "email": "aditi@example.com",
+    "education": "B.Tech, IIT Kanpur",
+    "skills": ["Python", "LangChain", "FastAPI", "Transformers", "SQL"],
+    "projects": [
+      "Conversational AI Assistant",
+      "Automated Resume Analyzer"
+    ],
+    "preferences": {
+      "location": "Remote",
+      "role": "AI",
+      "job_type": "Internship"
+    }
+  },
+  "job_filters": {
+    "keywords": ["AI", "LangGraph"],
+    "locations": ["Remote", "Kanpur"],
+    "sources": ["LinkedIn", "IIT Kanpur Research Portal"]
+  },
+  "human_feedback": {
+    "cover_letter_tone": "enthusiastic",
+    "email_highlights": ["published research", "hackathon wins"]
+  }
+}

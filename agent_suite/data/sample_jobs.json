@@ -1,0 +1,29 @@
+[
+  {
+    "id": "job_001",
+    "title": "AI Research Intern",
+    "company": "IIT Kanpur - AI Lab",
+    "location": "Kanpur, India",
+    "description": "Work on applied NLP research, build prototypes, collaborate with faculty on AI for education. Skills: Python, Transformers, LangChain, FastAPI, research writing.",
+    "source": "IIT Kanpur Research Portal",
+    "url": "https://iitk.ac.in/ai/jobs/ai-research-intern"
+  },
+  {
+    "id": "job_002",
+    "title": "Software Engineer - AI Tools",
+    "company": "InnovateX",
+    "location": "Remote",
+    "description": "Develop AI-powered productivity tools. Responsibilities include building LangGraph workflows, integrating APIs, and deploying FastAPI services. Required: Python, LangChain, FastAPI, PostgreSQL, Docker.",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/123456"
+  },
+  {
+    "id": "job_003",
+    "title": "Data Science Intern",
+    "company": "AnalyticsHub",
+    "location": "Bengaluru, India",
+    "description": "Assist senior data scientists with ETL, build dashboards, and experiment with LLM-driven analytics. Skills: SQL, Python, Pandas, Plotly, communication.",
+    "source": "Indeed",
+    "url": "https://www.indeed.com/viewjob?jk=654321"
+  }
+]

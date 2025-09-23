@@ -1,0 +1,5 @@
+{
+  "ai": ["python", "transformers", "langchain", "nlp", "machine learning", "research"],
+  "backend": ["fastapi", "postgresql", "docker", "microservices", "rest api"],
+  "data_science": ["sql", "pandas", "etl", "dashboards", "statistics"]
+}
