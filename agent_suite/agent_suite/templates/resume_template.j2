@@ -1,0 +1,23 @@
+{{ profile.full_name }}
+{{ profile.email }}
+
+Objective
+---------
+Motivated candidate applying for the {{ job.title }} role at {{ job.company }}.
+
+Matched Skills
+--------------
+{% for skill in matched_skills %}- {{ skill }}
+{% endfor %}
+
+Experience & Projects
+---------------------
+{% for project in profile.projects %}- {{ project.name }}: {{ project.description }}
+{% endfor %}
+
+Education
+---------
+{% for edu in profile.education %}- {{ edu }}
+{% endfor %}
+
+ATS Score: {{ ats_score * 100 }}%
