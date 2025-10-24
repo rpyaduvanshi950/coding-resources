@@ -1,0 +1,40 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isAuthed() {
+      return request.auth != null;
+    }
+
+    function isOwner(uid) {
+      return request.auth != null && request.auth.uid == uid;
+    }
+
+    match /posts/{postId} {
+      allow read: if isAuthed();
+      allow write: if false;
+    }
+
+    match /candidates/{candidateId} {
+      allow read: if isAuthed();
+      allow write: if false;
+    }
+
+    match /users/{userId} {
+      allow read: if isOwner(userId);
+      allow write: if false;
+    }
+
+    match /ballots/{ballotId} {
+      allow read: if isOwner(ballotId);
+      allow write: if false;
+    }
+
+    match /email_verifications/{docId} {
+      allow read, write: if false;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
